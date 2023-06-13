@@ -1,0 +1,28 @@
+2023-03-06T06:06:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\elementor\includes\settings\settings-page.php on line 4
+
+2023-03-06T06:11:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-includes\class-wp-theme-json.php on line 2138
+
+2023-03-06T06:15:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\ocean-extra\includes\compatibility\ocean.php on line 150
+
+2023-03-06T06:15:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php on line 12
+
+2023-03-06T06:15:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\assets\client\admin\app\index.asset.php on line 1
+
+2023-03-06T06:16:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 189
+
+2023-03-06T06:16:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 189
+
+2023-03-06T06:16:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 189
+
+2023-03-06T06:16:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 189
+
+2023-03-06T06:16:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-includes\functions.php on line 4541
+
+2023-03-06T06:16:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CartTotalsBlock.php on line 15
+
+2023-03-06T06:16:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\elementor\core\document-types\page-base.php on line 10
+
+2023-03-06T06:16:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp file\htdocs\ecommarce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\FilledCartBlock.php on line 15
+
+2023-03-06T06:33:59+00:00 CRITICAL require_once(): Failed opening required 'plugin-fw/yit-deactive-plugin.php' (include_path='D:\xampp file\php\PEAR') in D:\xampp file\htdocs\ecommarce\wp-content\plugins\yith-woocommerce-wishlist\init.php on line 150
+
